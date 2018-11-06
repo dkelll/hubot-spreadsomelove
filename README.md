@@ -1,6 +1,7 @@
-# Hubot Codinglove script
+# Hubot Spreadsomelove script
 
-A little script to get meme from [the coding love](https://thecodinglove.com/)
+A little script to get meme from [the coding love](https://thecodinglove.com/). Adapted from 
+[hubot-codinglove](https://github.com/hubot-scripts/hubot-codinglove).
 
 ## Usage
 
